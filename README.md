@@ -6,10 +6,10 @@ Executive-ready Power BI dashboard analyzing Blinkit sales performance across ou
 ## Screenshots of Report Pages:
 
 ### Dashboard Page
-![MAIN DB](https://github.com/imsc100k/E-Commerce-Sales-Data-Analysis-Using-PowerBI/blob/main/images/Dashboard.png)
+![MAIN DB](https://github.com/imsc100k/Blinkit-Sales-Performance-Analytics-PowerBI/blob/main/Screenshots/overview-dashboard.png)
 
 ### sales-by-location-item Page
- ![sales-by-location-item](https://github.com/imsc100k/E-Commerce-Sales-Data-Analysis-Using-PowerBI/blob/main/images/Coverpage.png)
+ ![sales-by-location-item](https://github.com/imsc100k/Blinkit-Sales-Performance-Analytics-PowerBI/blob/main/Screenshots/sales-by-location-item.png)
 
 ## Key KPIs
 - Total Sales: $1.20M
