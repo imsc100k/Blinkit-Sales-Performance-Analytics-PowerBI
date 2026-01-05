@@ -27,14 +27,21 @@ Retail analytics, portfolio project, interview showcase
 Blinkit-Sales-Performance-Analytics-PowerBI/
 │
 ├── 📊 Dashboard/
+
 │   ├── BlinkIT_Sales_Dashboard.pbix
+
 │
 ├── 🖼️ Screenshots/
+
 │   ├── overview-dashboard.png
+
 │   ├── sales-by-location-item.png
+
 │
 ├── 📂 Dataset/
+
 │   └── BlinkIT_Grocery_Data_Raw.csv
+
 │
 ├── 📜 README.md
 
