@@ -20,32 +20,6 @@ Executive-ready Power BI dashboard analyzing Blinkit sales performance across ou
 ## Tools
 Power BI, DAX, Power Query, Data Modeling
 
-## Use Case
-Retail analytics, portfolio project, interview showcase
-
-
-Blinkit-Sales-Performance-Analytics-PowerBI/
-│
-├── 📊 Dashboard/
-│   ├── BlinkIT_Sales_Dashboard.pbix
-│
-├── 🖼️ Screenshots/
-│   ├── overview-dashboard.png
-│   ├── sales-by-location-item.png
-│
-├── 📄 Documentation/
-│   ├── Data_Model.md
-│   ├── DAX_Measures.md
-│   ├── Business_Insights.md
-│
-├── 📂 Dataset/
-│   └── blinkit_sales_raw.csv
-│
-├── 📜 README.md
-│
-└── 📄 LICENSE
-
-
 ## 👤 Author
 
 **Vijay Kumar Naik**
